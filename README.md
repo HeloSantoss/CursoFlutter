@@ -1,5 +1,9 @@
 Atividades feitas em Flutter, e Android Studio
 
+Ao iniciar:
+flutter upgrade
+flutter pub upgrade
+flutter pub upgrade 
 
 git init
 git add .
