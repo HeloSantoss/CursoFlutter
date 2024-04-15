@@ -1,0 +1,208 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app_jogo_adivinha",
+            "cwd": "app_jogo_adivinha",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app_jogo_adivinha (profile mode)",
+            "cwd": "app_jogo_adivinha",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app_jogo_adivinha (release mode)",
+            "cwd": "app_jogo_adivinha",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app_lista1",
+            "cwd": "app_lista1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app_lista1 (profile mode)",
+            "cwd": "app_lista1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app_lista1 (release mode)",
+            "cwd": "app_lista1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app_to_do_list",
+            "cwd": "app_to_do_list",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app_to_do_list (profile mode)",
+            "cwd": "app_to_do_list",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app_to_do_list (release mode)",
+            "cwd": "app_to_do_list",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "calculadora_flutter",
+            "cwd": "calculadora_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calculadora_flutter (profile mode)",
+            "cwd": "calculadora_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calculadora_flutter (release mode)",
+            "cwd": "calculadora_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "exemplo2_persistenciadedados",
+            "cwd": "exemplo2_persistenciadedados",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "exemplo2_persistenciadedados (profile mode)",
+            "cwd": "exemplo2_persistenciadedados",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "exemplo2_persistenciadedados (release mode)",
+            "cwd": "exemplo2_persistenciadedados",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "exemplo_1",
+            "cwd": "exemplo_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "exemplo_1 (profile mode)",
+            "cwd": "exemplo_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "exemplo_1 (release mode)",
+            "cwd": "exemplo_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "exemplo_bancomysql",
+            "cwd": "exemplo_bancomysql",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "exemplo_bancomysql (profile mode)",
+            "cwd": "exemplo_bancomysql",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "exemplo_bancomysql (release mode)",
+            "cwd": "exemplo_bancomysql",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lista_de_exercicios",
+            "cwd": "lista_de_exercicios",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lista_de_exercicios (profile mode)",
+            "cwd": "lista_de_exercicios",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lista_de_exercicios (release mode)",
+            "cwd": "lista_de_exercicios",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ola_mundo_flutter",
+            "cwd": "ola_mundo_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ola_mundo_flutter (profile mode)",
+            "cwd": "ola_mundo_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ola_mundo_flutter (release mode)",
+            "cwd": "ola_mundo_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lista_de_produtos",
+            "cwd": "app_to_do_list\\lista_de_produtos",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lista_de_produtos (profile mode)",
+            "cwd": "app_to_do_list\\lista_de_produtos",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lista_de_produtos (release mode)",
+            "cwd": "app_to_do_list\\lista_de_produtos",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

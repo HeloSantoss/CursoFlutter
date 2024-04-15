@@ -72,3 +72,13 @@ class ListaTarefasScreen extends StatelessWidget {
     );
   }
 }
+
+class ListaTarefasModel {
+  get tarefas => null;
+
+  void excluirTarefa(int index) {}
+
+  void marcarComoConcluida(int index) {}
+
+  void adicionarTarefa(String text) {}
+}
