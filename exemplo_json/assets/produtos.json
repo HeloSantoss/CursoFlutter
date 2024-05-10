@@ -1,0 +1,27 @@
+[
+    {
+        "nome":"CPU",
+        "preco":599.90,
+        "categoria":"informática",
+        "foto":"assets/img/img01.jpg"
+    },
+    {
+        "nome":"Camiseta Linux",
+        "preco":49.90,
+        "categoria":"Vestuário",
+        "foto":"assets/img/img02.jpg"
+    },
+    {
+        "nome":"Mouse Pad",
+        "preco":19.90,
+        "categoria":"Acessórios",
+        "foto":"assets/img/img03.jpg"
+    },
+    {
+        "nome":"Casaco Tux",
+        "preco":99.90,
+        "categoria":"Vestuário",
+        "foto":"assets/img/img04.jpg"
+    }
+
+]

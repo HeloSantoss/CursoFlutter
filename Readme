@@ -1,0 +1,10 @@
+login, com banco de dados
+pagina interna para selecionar preferencias (cor de fundo, idioma, tipo de letra)
+guardar as preferencias do usuario. 
+
+
+flutter create exemplo_persistencisa_sqllite
+flutter upgrade
+flutter pub add sqlite
+flutter pub add path
+flutter pub add path_provider
